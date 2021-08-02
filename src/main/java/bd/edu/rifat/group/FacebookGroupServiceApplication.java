@@ -1,0 +1,13 @@
+package bd.edu.rifat.group;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FacebookGroupServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FacebookGroupServiceApplication.class, args);
+	}
+
+}
